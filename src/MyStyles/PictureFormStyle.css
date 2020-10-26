@@ -1,0 +1,15 @@
+.items{
+    flex: 1;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.form{
+    width: 100%;    
+}
+
+.ant-form-item{
+    margin-bottom: 24px;
+}
+

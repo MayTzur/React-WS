@@ -1,0 +1,24 @@
+.add-btn{
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: end;
+    color: #00796b;
+}
+
+.edit-btn{
+    color: #fafafa;
+    background-color: #007ac1;
+}
+
+.delete-btn{
+    color: #fafafa;
+    background-color: #c30000;
+}
+
+.top-btn{
+    background-color: #00796b;
+    border: none;
+}
+
+.ant-divider-inner-text{
+    font-size: 18px;
+}

@@ -1,0 +1,92 @@
+.home{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+#title{
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    font-size: 5vw;
+}
+
+Button:hover{
+    opacity: 0.6;
+}
+
+.login-btn{
+    background-color: #004c40;
+    color: aliceblue;
+    border: none;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 1.4vw;
+    height: 100%;
+}
+
+.facebook{
+    font-size: 2.2vw;
+    color: aliceblue;
+}
+
+.imgSlide{
+    padding: 20px;
+}
+
+.home{
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+.ant-typography{
+    padding-bottom: 8%;
+    padding-top: 8%;
+}
+
+.ant-divider-inner-text{
+    font-size: 2.2vw;
+}
+
+.ant-btn{
+    white-space: normal;
+}
+
+#footer{
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 1.6vw;
+    padding-bottom: 8%;
+}
+
+.head{
+    padding: 15px;
+    background-color: #00796b;
+}
+
+.ant-divider-horizontal.ant-divider-with-text{
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+.btn{
+    background-color: #004c40;
+    color: aliceblue;
+    border: none;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+
+.hide{
+    display: none;
+}
+
+#top-btn{
+    background-color: #00796b;
+    border: none;
+}
+
+.gallery-btn{  
+    color: #004c40;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 2.2vw;
+}
+

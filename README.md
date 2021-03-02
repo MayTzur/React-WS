@@ -11,6 +11,7 @@ This work has 2 parts:
 * An administrator must identify himself with a password that is verified, If he tried to connect without success 3 times this option will be blocked for 10 minutes.
 
 The site is available at: https://davidart.netlify.app/
+(If it doesn't work on Chrome try it on Edge)
 
 --- Main languages and libraries: React js, css, Firebase, EmailJS, Ant Design, Material Design, JS, ...
 
